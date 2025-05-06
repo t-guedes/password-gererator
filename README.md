@@ -28,15 +28,6 @@ Este é um projeto simples e responsivo de uma **tela de cadastro de usuário co
     └── javascript.jpg  # Imagem de fundo usada no banner
 ```
 
-## 🚀 Como Usar
-
-1. Clone ou baixe este repositório.
-2. Certifique-se de manter a estrutura de pastas (`css`, `js`, `img`).
-3. Abra o arquivo `index.html` em seu navegador.
-4. Preencha o formulário ou clique em **"Clique aqui"** para gerar uma senha segura.
-5. Configure os critérios de senha e clique em **"Criar senha"**.
-6. Clique em **"Copiar"** para salvar a senha na área de transferência.
-
 ## 📸 Captura de Tela
 
 ![password-generator](https://github.com/user-attachments/assets/56e1caeb-079e-42ff-9d55-2c5a81a3f6fe)
