@@ -41,5 +41,5 @@ Este é um projeto simples e responsivo de uma **tela de cadastro de usuário co
 ## 📌 Observações
 
 * Este projeto não possui back-end. Os dados inseridos não são armazenados.
-* A imagem de fundo utilizada está localizada em `img/javascript.jpg` — você pode substituir por qualquer outra de sua preferência.
+* A imagem de fundo utilizada está localizada em `img/javascript.jpg` .
 
